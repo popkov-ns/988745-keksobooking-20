@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Никита Попков](https://up.htmlacademy.ru/javascript/20/user/988745).
-* Наставник: `Неизвестно`.
+* Наставник: `Сергей Глазков`.
 
 ---
 
